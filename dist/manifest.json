@@ -1,0 +1,24 @@
+{
+  "name": "Iceheop",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Iceheop theme for develop",
+  "theme": {
+    "colors": {
+      "toolbar": [12, 12, 12],
+      "frame": [12, 12, 12],
+      "omnibox_text": [248, 248, 242],
+      "omnibox_background": [12, 12, 12],
+      "toolbar_button_icon": [248, 248, 242],
+      "toolbar_text": [248, 248, 242],
+      "tab_background_text": [136, 147, 180],
+      "ntp_background": [12, 12, 12],
+      "ntp_text": [248, 248, 242],
+      "bookmark_text": [248, 248, 242],
+      "tab_text": [248, 248, 242],
+      "frame_inactive": [98, 114, 164],
+      "background_tab_inactive": [12, 12, 12],
+      "background_tab": [12, 12, 12]
+    }
+  }
+}
